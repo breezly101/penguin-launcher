@@ -33,7 +33,7 @@ function pageload() {
     }
 
     function oneseventhree() {
-      updateUI("Launch Beta 1.7.3", "Eaglercraft - Default", "clients/beta-1.7.3/");
+      updateUI("Launch Beta 1.7.3", "Eaglercraft - Default", "clients/beta-1.7.3/web/");
     }
 
     function updateUI(versionText, editionText, linkHref) {
