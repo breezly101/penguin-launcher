@@ -13,23 +13,23 @@ function pageload() {
     }
 
     function onetwelvejs() {
-      updateUI("Launch 1.12.2", "Eaglercraft - JS", "clients/1.12.2/js/");
+      updateUI("Launch 1.12.2", "Eaglercraft - JS", "clients/1.12.2/");
     }
 
     function onetwelvewasm() {
-      updateUI("Launch 1.12.2", "Eaglercraft - WASM", "clients/1.12.2/wasm/");
+      updateUI("Launch 1.12.2", "Eaglercraft - WASM", "clients/1.12.2-wasm/");
     }
 
     function oneeightjs() {
-      updateUI("Launch 1.8.8", "Eaglercraft - JS", "clients/1.8.8/js/");
+      updateUI("Launch 1.8.8", "Eaglercraft - JS", "clients/1.8.8/");
     }
 
     function oneeightwasm() {
-      updateUI("Launch 1.8.8", "Eaglercraft - WASM", "clients/1.8.8/wasm/");
+      updateUI("Launch 1.8.8", "Eaglercraft - WASM", "clients/1.8.8-wasm/");
     }
 
     function onefive() {
-      updateUI("Launch 1.5.2", "Eaglercraft - Default", "clients/1.5.2/default/");
+      updateUI("Launch 1.5.2", "Eaglercraft - Default", "clients/1.5.2/");
     }
 
     function oneseventhree() {
