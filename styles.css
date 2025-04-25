@@ -29,6 +29,7 @@ body {
 }
 
 .logo {
+  cursor: pointer;
   border-radius: 10px;
   transition: all 0.3s cubic-bezier(0.5, 1, 0.5, 1);
   font-size: 13.5px;
