@@ -29,6 +29,7 @@ a {
   color: white;
   display: flex;
   width: 340px;
+  cursor: pointer;
 }
 .logo:hover {
   background-color: #1c1c1c;
