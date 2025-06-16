@@ -2,7 +2,7 @@
 
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden; /* prevent horizontal scroll globally */
+  overflow-x: hidden; /* prevent horizontal scroll globally  */
   box-sizing: border-box;
 }
 
